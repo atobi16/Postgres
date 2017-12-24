@@ -1,0 +1,26 @@
+transactions.id,people.id,items.id,people.firstname,people.lastname,items.name,items.price,transactions.quantity,transactions.discount
+0,4,4,Scott,Manley,Soda,20,1,0.5
+1,0,0,Jeb,Kerman,Beer,10,1,
+2,3,2,Valentina,Kerman,Crowbar,50,1,0.1
+3,1,3,Bill,Kerman,Oreos,25,1,
+4,4,2,Scott,Manley,Crowbar,50,500,0.4
+5,2,0,Bob,Kerman,Beer,10,1,
+6,0,0,Jeb,Kerman,Beer,10,2,0.25
+7,0,0,Jeb,Kerman,Beer,10,3,
+8,1,1,Bill,Kerman,Chips,25,1,0.75
+9,2,5,Bob,Kerman,Circuit Board,100,2,0.2
+10,5,4,John,Doe,Soda,20,2,
+11,1,0,Bill,Kerman,Beer,10,3,0.1
+12,6,1,John,Jones,Chips,25,2,0.5
+13,3,2,Valentina,Kerman,Crowbar,50,1,0.25
+14,0,3,Jeb,Kerman,Oreos,25,4,
+15,4,5,Scott,Manley,Circuit Board,100,2,0.5
+16,5,6,John,Doe,Rocket Engine,5000,2,0.5
+17,6,2,John,Jones,Crowbar,50,1,0.5
+18,4,4,Scott,Manley,Soda,20,2,0.2
+19,2,0,Bob,Kerman,Beer,10,1,
+20,3,5,Valentina,Kerman,Circuit Board,100,3,0.25
+21,1,3,Bill,Kerman,Oreos,25,5,0.5
+22,0,1,Jeb,Kerman,Chips,25,3,0.75
+23,4,6,Scott,Manley,Rocket Engine,5000,20,0.5
+24,5,3,John,Doe,Oreos,25,1,0.5
